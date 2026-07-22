@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Environment and credentials
+.env
+.env.*
+credentials.json
+token.json
+
+# Temporary processing files
+.tmp/
+.agent/
+.agents/
